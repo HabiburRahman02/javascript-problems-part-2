@@ -28,3 +28,7 @@ function getMaxIn3(rahim, karim, nahid) {
 
 const max3 = getMaxIn3(rahim, karim, nahid);
 console.log('max number is:', max3)
+
+// max more numbers 
+const maxResult = Math.max(12, 67, 4362, 231, 12, 23, 4, 5, 3535, 35);
+console.log(maxResult)
